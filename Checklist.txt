@@ -2,7 +2,7 @@
 
 - [x] 1. Choose Technology Stack
 - [x] 2. Set Up Project Structure
-- [ ] 3. Initialize Game Window
+- [ x] 3. Initialize Game Window
 - [ ] 4. Implement Snake Logic
   - [ ] Represent the snake as a list/array of coordinates
   - [ ] Handle snake movement (up, down, left, right)
