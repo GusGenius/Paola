@@ -1,0 +1,25 @@
+# Snake Game Development Checklist
+
+- [x] 1. Choose Technology Stack
+- [x] 2. Set Up Project Structure
+- [ ] 3. Initialize Game Window
+- [ ] 4. Implement Snake Logic
+  - [ ] Represent the snake as a list/array of coordinates
+  - [ ] Handle snake movement (up, down, left, right)
+  - [ ] Allow the snake to grow when it eats food
+  - [ ] Make the snake purple
+- [ ] 5. Add Food Mechanics
+  - [ ] Randomly place food on the grid
+  - [ ] Detect collision between snake and food
+- [ ] 6. Handle Game Over Conditions
+  - [ ] Detect collision with walls
+  - [ ] Detect collision with itself
+- [ ] 7. Input Handling
+  - [ ] Capture user input for direction changes
+- [ ] 8. Scoring System
+  - [ ] Track and display the player's score
+- [ ] 9. Game Loop
+  - [ ] Implement the main loop to update the game state and render frames
+- [ ] 10. Polish & Extras (Optional)
+  - [ ] Add sound effects, pause/restart functionality, or a start screen
+  - [ ] Improve visuals (colors, snake/food appearance)
